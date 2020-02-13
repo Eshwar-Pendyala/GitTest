@@ -5,4 +5,8 @@ Welcome to Git!
 Change : Login
 
 Change : Bux Fix
+
 Change : from teammate from remote repo
+
+Change : Bug Fix2
+
